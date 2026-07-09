@@ -1,0 +1,4 @@
+**/node_modules
+Backend/.env
+Backend/uploads
+Frontend/dist
